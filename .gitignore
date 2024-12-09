@@ -1,0 +1,27 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Auto-generated files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+
+# Folders
+.history/
+.tmp/
